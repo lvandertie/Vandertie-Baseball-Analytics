@@ -1,0 +1,11 @@
+Using a classifier to define outfield wall boundaries according to where home runs are located
+
+Expected velo ranges based off height and weight and handedness 
+
+Explore Fielding Using Statcast Numbers
+ - Catch prob.
+ - Get credit for excess catch prob (get 1% for a 99% catch prob)
+
+Arm slot angles
+ - Bins: high, middle, low
+
